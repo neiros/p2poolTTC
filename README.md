@@ -1,4 +1,4 @@
-Requirements:
+Requirements: 
 -------------------------
 Generic:
 * Bitcoin >=0.8.5
