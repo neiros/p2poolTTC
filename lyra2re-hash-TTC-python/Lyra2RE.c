@@ -22,9 +22,6 @@
  * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
- *
- * This file was originally written by Colin Percival as part of the Tarsnap
- * online backup system.
  */
 
 #include "Lyra2RE.h"
@@ -40,6 +37,10 @@
 #include "sph_skein.h"
 #include "Lyra2.h"
 
+/*-
+ * This file was originally written by Colin Percival as part of the Tarsnap
+ * online backup system.
+ */
 
 void lyra2re2_TTC(const char* input, char* output)
 {
