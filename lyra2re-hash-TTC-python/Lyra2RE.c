@@ -40,6 +40,7 @@
 #include "sph_skein.h"
 #include "Lyra2.h"
 
+
 void lyra2re2_TTC(const char* input, char* output)
 {
 	sph_blake256_context ctx_blake;
